@@ -16,6 +16,7 @@ The user should be able to view create and track daily workouts. The user should
 - [Summary](#Summary)
 - [Technologies](#technologies)
 - [Links](#links)
+- [Screenshots](#screenshots)
 #
 #
 
