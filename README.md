@@ -16,7 +16,7 @@ The user should be able to view create and track daily workouts. The user should
 - [Summary](#Summary)
 - [Technologies](#technologies)
 - [Links](#links)
-- [Screenshots](#screenshots)
+- [LinkedIn](#linkedIn)
 #
 #
 
@@ -55,6 +55,8 @@ This is the link to the live site on [Heroku](https://lit-caverns-99318.herokuap
 This is the link to my github Repo [GitHub](https://github.com/lbladma/My-Fitness-Tracker)
 #
 
+
+## LinkedIn 
  [<img alt="LinkedIn" src="images\linkedin.png">](https://www.linkedin.com/in/taoufika/)
 
 
