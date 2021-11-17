@@ -51,7 +51,7 @@ The user should be able to view create and track daily workouts. The user should
 ## Links 
 This is the link to the live site on [Heroku](https://lit-caverns-99318.herokuapp.com/)
 
-This is the link to my github Repo [GitHub](https://github.com/lbladma/Fitness-app)
+This is the link to my github Repo [GitHub](https://github.com/lbladma/My-Fitness-Tracker)
 #
 
  [<img alt="LinkedIn" src="images\linkedin.png">](https://www.linkedin.com/in/taoufika/)
